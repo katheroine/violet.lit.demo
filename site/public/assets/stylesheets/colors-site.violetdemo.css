@@ -1,0 +1,6 @@
+:root
+{
+  --body-background-color: var(--dark-blue);
+  --banner-background-color: var(--dark-blue);
+  --banner-text-color: var(--white);
+}
