@@ -3,3 +3,16 @@
   --cover-file-path: url('https://katheroine.github.io/violet.lit.demo/site/public/assets/images/cover.png');
   --font-family: liberation-sans-regular, 'Verdana', sans-serif;
 }
+
+/* Temporary styles */
+
+#board {
+  background-color: var(--white);
+}
+
+main
+{
+  max-width: var(--max-width);
+  width: calc(100% - 2 * var(--vertical-hem));
+  margin: var(--controls-height) auto;
+}
